@@ -23,7 +23,7 @@ Quick start options:
 
 ## Useful Links
 
-Support us for More Dapps:
+Support us for More codes:
 
 Ethereum: 0x42FE987767e39C9c2c19Dd24822f551e01791252
 
