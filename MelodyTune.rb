@@ -25,7 +25,7 @@ live_loop :random_riff do
   # synth :blade, note: :e4, release: 4, cutoff: 100, amp: 1.5
   use_synth :dsaw
   use_random_seed 30030
-  notes = (scale :e3, :minor_pentatonic, num_octaves: 2).shuffe.take(8)
+  notes = (scale :e3, :minor_pentatonic, num_octaves: 2).shuffle.take(8)
   8.times do
     play notes.tick, release: rand(0.5),
       cutoff: rrand(60, 130) if one_in(2)
