@@ -50,7 +50,7 @@ Google+: <https://plus.google.com/+sriharikapu>
 Instagram: <https://instagram.com/sriharikapu>
 
 [CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-2.0.19.65-blue.svg
+[version-badge]: https://img.shields.io/badge/version-2.0.20.65-blue.svg
 
 
 
